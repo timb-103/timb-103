@@ -2,11 +2,11 @@
 
 ---
 
-I'm the founder and sole developer of a social media management platform called [Pallyy](https://pallyy.com) which I've been working on for the last 3.5 years. It started as a side project but has now grown to a point it's my day job, and main focus. 
+I'm the founder and sole developer of a social media management platform called **[Pallyy](https://pallyy.com)** which I've been working on for the last 3.5 years. 
 
-I manage a few other small SaaS platforms, and constantly work on building new and exciting things. I love working with @nuxtjs & @mongoDB for all my new projects.
+Pallyy started as a side project but has now grown to a point it's my day job, and main focus. I manage a few other small SaaS platforms, and constantly work on building new and exciting things. 
 
-Here's a list of my current projects:
+I love working with @nuxtjs & @mongoDB for all my new projects. Here's a list of what I'm working on now:
 
 - [Pallyy](https://pallyy.com), a social media management platform
 - [Thread Creator](https://threadcreator.com), a Twitter scheduling tool
