@@ -2,15 +2,13 @@
 
 ---
 
-I'm the founder and sole developer of a social media management platform called **[Pallyy](https://pallyy.com)** which I've been working on for the last 3.5 years. 
+I'm the founder & developer of **[Pallyy](https://pallyy.com)** which I've been working on for the last 3.5 years. Pallyy started as a side project but has now grown to a point it's my day job, and main focus. 
 
-Pallyy started as a side project but has now grown to a point it's my day job, and main focus. I manage a few other small SaaS platforms, and constantly work on building new and exciting things. 
+I manage a few other small SaaS platforms, and constantly work on building new and exciting things. I love working with NuxtJS & MongoDB for all my new projects. Here's a list of what I'm working on now:
 
-I love working with @nuxtjs & @mongoDB for all my new projects. Here's a list of what I'm working on now:
-
-- [Pallyy](https://pallyy.com), a social media management platform
-- [Thread Creator](https://threadcreator.com), a Twitter scheduling tool
-- [Diary](https://diary.sh), A simple, collaborative note taking app
+- 📅 **[Pallyy](https://pallyy.com)**, a social media management platform
+- 🧵 **[Thread Creator](https://threadcreator.com)**, a Twitter scheduling tool
+- 🧾 **[Diary](https://diary.sh)**, A simple, collaborative note taking app
 
 <!--
 **timb-103/timb-103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
