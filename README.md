@@ -10,6 +10,15 @@ I manage a few other small SaaS platforms, and constantly work on building new a
 - **[Thread Creator](https://threadcreator.com)**, a Twitter scheduling tool
 - **[Diary](https://diary.sh)**, A simple, collaborative note taking app
 
+Plus some of my favourite open source projects:
+
+- [nuxt-emoji](https://github.com/timb-103/nuxt-emoji)
+- [nuxt-modal](https://github.com/timb-103/nuxt-modal)
+- [nuxt-mongodb](https://github.com/timb-103/nuxt-mongodb)
+- [nuxt-rate-limit](https://github.com/timb-103/nuxt-rate-limit)
+
+You can find me on [X](https://x.com/timb03), or via email tim103@pm.me.
+
 <!--
 **timb-103/timb-103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
