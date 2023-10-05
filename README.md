@@ -8,8 +8,6 @@ I manage a few other small SaaS platforms, and constantly work on building new a
 
 - **[Pallyy](https://pallyy.com)**, a social media management platform
 - **[Thread Creator](https://threadcreator.com)**, a Twitter scheduling tool
-- **[Diary](https://diary.sh)**, A simple, collaborative note taking app
-- **[README](https://readme.site)**, host your Github README on it's own page
 
 Plus some of my favourite open source projects:
 
